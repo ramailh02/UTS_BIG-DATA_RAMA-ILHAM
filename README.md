@@ -37,3 +37,6 @@ Projek ini bertujuan untuk mendemonstrasikan pemahaman mengenai konsep Big Data,
 * `data/`: Berisi dataset yang digunakan (jika disertakan).
 * `notebooks/`: File Jupyter Notebook utama.
 * `README.md`: Dokumentasi projek.
+
+## Visualisai Analisis Sentimen
+![Visualisasi](image.png)
