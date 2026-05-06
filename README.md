@@ -1,8 +1,9 @@
 # UTS Big Data - Rama Ilham
 
 ## 👤 Penulis
-**Rama Ilham Ramadhan**
-**14022300024**
+* **Rama Ilham Ramadhan**
+* **14022300024**
+* **6B-BIS**
 Mahasiswa Sistem Informasi
 Universitas Bina Bangsa (UNIBA)
 
